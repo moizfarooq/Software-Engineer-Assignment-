@@ -14,22 +14,31 @@ Developer priorly uses code search which leads and has observed that method has 
 RESEARCH AND METHODOLOGY:
 
 Methodology circulates around logging search and browser activity and how periodically serve each participant about their current task and activity. Highlighted points of methodology are given below:
+
 •	To seek on the factors that make a query successful.
+
 •	To provide better understanding of the code search results of related languages learners. 
+
 •	Suggestions on improving the success of searches when learners working with an unfamiliar language.
 
 
 They have covered 3 questions:
 RQ1: why do subsequent languages learn search?
+
 RQ2: what does a typical session entail for subsequent language learner?
+
 RQ3: what are the factors that impact the success of each query for subsequent language learner?
 
 They choose VBA (virtual basic for application) because it is very popular learning language 
 With many online usage. But it is not commonly used by in the first graduate in computer science.
 The five tasks which are given to learners are given below:
+
 1.	Provide participants a list of numbers in a column and ask participants to record a macro and create a button that return the average value of numbers.
+
 2.	Require participants to create button that creates a message “Hello world” on it once clicked.
+
 3.	Provide participants a list of source in a column called Grade, ranging from 43 to 100, and ask participants to create button that populates column called P/F with p or f for pass or fail.
+
 4.	Provide participants a list of phone numbers, in the format of (XXX) XXX-XXX and ask participants to create a button that populate a column called area code with unique area code and their associated count in a column called unit. They collect data by developing Google chrome extension to monitor students searches and prepare them searches in a research survey. They reformulate those search which they found relevant to VBA  they compile them to make survey.
 
 RESULT:
