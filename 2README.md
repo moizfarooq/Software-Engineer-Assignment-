@@ -23,6 +23,7 @@ Methodology circulates around logging search and browser activity and how period
 
 
 They have covered 3 questions:
+
 RQ1: why do subsequent languages learn search?
 
 RQ2: what does a typical session entail for subsequent language learner?
