@@ -19,7 +19,6 @@ Methodology circulates around logging search and browser activity and how period
 
 •	Suggestions on improving the success of searches when learners working with an unfamiliar language.
 
-
 They have covered 3 questions:
 
 RQ1: why do subsequent languages learn search?
