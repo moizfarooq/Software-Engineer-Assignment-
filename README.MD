@@ -51,37 +51,42 @@ Firefox, and Apache projects. In total, they collect 290 browser alter- natives,
 RESULTS:
 
 Four questioned were discussed prior this article the following are the results, motivations and approach of the research:
+
 RQ0: What are the most significant users concerns for Browsers, IDEs and Web Servers?
+
 The motivation behind RQ0 is to  the main concerns within the competition scene of a specific software domain. This investigation is really important to highlight what are the main strengths and weaknesses within a particular domain (e.g., Browsers). This knowledge can be useful because, for example, an organization can study the main weaknesses within a domain and better assess whether its products/services fall within the same.
 Their observations and research  suggest that the users concerns are
 Highly related to issues (e.g., bugs or crashes) that are present in the respective software products.
+
 RQ1: Can we find a correlation between potential user churn and issue reports?
+
 Previously In RQ0, they highlighted  that software issues (e.g., bugs & crashes and memory issues) are common concerns that may
 motivate users to churn. With such an observation, they gave an intelligent guess in RQ1 that the potential users’churn observed on alternativeto.net
 may be correlated with the issue reports which developers address in their  projects. This analysis is important because if such a correlation exists, the potential user churn information can be possibly used to prioritize issue reports. Their research and its results suggest that there exists a significant cor-
 relation between software issues and potential user churn.
+
 RQ2: Can we use machine learning models to
 predict the rate of potential user churn?
+
 In the practice, most of the issue reports undergo human estimations of the priority and the severity, usually based
 on internal business-oriented factors. Issues
 might be prioritized by their recency, the affected platforms, the versions of the software where the issue is present. Looking after a machine learning model to identify the potential user churn that are
 caused by issues may help automate the issue report prioritization process and ultimately save huge costs in software development.
-RQ2: Can we use machine learning models to
-predict the rate of potential user churn?
-In the practice, most of the issue reports undergo human estimations of the priority and the severity, usually based
-on internal business-oriented factors. Issues
-might be prioritized by their recency, the affected platforms, the versions of the software where the issue is present. Looking after a machine learning model to identify the potential user churn that are
-caused by issues may help automate the issue report prioritization process and ultimately save huge costs in software development.
+
 They predict three different machines to identify low and high user issues rates by using information from issue report.
 The first model they reported was FEED-FORWARD NEUTRAL 
 NETWORKS with two hidden layers developed by using key framework. This is how they research on different models and then, their  results suggest that machine learning models, such as XGboost and Feed Forward Neural Networks, can predict the rate of user churn with relatively high accuracies (in terms of AUC).
 Such predictions could help in the prioritization of issue reports.
+
 RQ3: What are the most important factors
-related to potential user churn?In RQ2, researchers  observe that machine learning models
+related to potential user churn?
+
+In RQ2, researchers  observe that machine learning models
 can be used to predict the rate of potential userschurn. However, developers would hardly trust a machine learning model to help on their decisions (and they should not do so). Developers would mostly benefit from understanding the reasons behind the
 predictions of our machine learning models, so that they could
-possibly adapt (or not) their development process. Therefore, in
-RQ3, they investigate the most important features in the predictions
+possibly adapt (or not) their development process.
+
+Therefore, in RQ3, they investigate the most important features in the predictions
 of our machine learning model.
 To find the most important features, we adopt a simple feature
 extraction algorithm [61, 70]. Consider that our models are trained
