@@ -5,6 +5,7 @@ Title: How Graduate Computing Students Search When Using an Unfamiliar Programmi
 Conference Name : ICPC-2020 session 7 : About Developers at ICPC
 
 INTRODUCTION AND MOTIVATION:
+
 If we talk about developer/ computing students or programmers it is came  to know that every individual has their own goal for future or to gain mastery in any particular language. Based on their professional life and professional status.
 This article is all about social and professional topics, computer science education, software and it’s engineering, general computer programming languages, information system and the most important information extraction based on situ survey and log searches.
 To design any software there is a dire need to be aware with multiple languages [29,50] that is why developers is expect to master multiple languages. Developers often use opportunistic learning techniques or strategy, relating to the concepts of new learning language in comparison to their previous language.
