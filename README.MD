@@ -27,11 +27,13 @@ To seek user churn they investigate the reasons which are mentioned below:
 
 • RQ0: What are the most significant users’ concerns for Browsers,
 IDEs and Web Servers?
+
 • RQ1: Can we find a correlation between potential user churn and
 issue reports?
 
 • RQ2: Can we use machine learning models to predict the rate of
 potential churn?
+
 • RQ3: What are the most important factors related to potential user
 churn?
 
